@@ -1,0 +1,6 @@
+Django==1.11.6
+celery==4.1.0
+django-celery-beat==1.1.0
+django-celery-results==1.0.1
+python-jose==1.4.0
+requests==2.18.4
